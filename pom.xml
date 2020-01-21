@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>vepsunpipelinesanpshot </name>
-	      <url>http://3.84.200.239:8081/repository/vepsunpipelinesanpshot/</url>
+	      <name>vepsunpipelinesnapshot/name>
+	      <url>http://3.84.200.239:8081/repository/vepsunpipelinesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
